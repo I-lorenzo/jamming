@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
-import styles  from './App.css';
+import styles from './App.mod.css'
 
 
 function App() {
   return (
-    <div className="App">
+    <div >
     
     </div>
   );
